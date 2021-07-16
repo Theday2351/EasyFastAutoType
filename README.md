@@ -1,0 +1,2 @@
+# EasyFastAutoType
+FastAutoType
